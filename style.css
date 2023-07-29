@@ -1,0 +1,122 @@
+/* Styling the tag element*/
+body{
+  color: white;
+  background-color: #2b4d77;
+  font-family: 'Cutive Mono', monospace;
+  padding: 0;
+  margin:0;
+  padding:5% 7%;
+  font-size: 1.2rem;
+}
+h1,h2,h3,h4,h5,h6{
+  color: white;
+}
+h1{
+  font-size: 3.75rem;
+  margin-top: 10%;
+}
+
+h2{
+  font-size:1.5rem;
+  text-align: left;
+  background-color: #2b4d77;
+  padding:10px 10px;
+}
+
+.ulPro{
+  color: #3f72af;
+}
+.exp-summary{
+  text-align: left;
+}
+/*Defining the selector class*/
+.top-cntainer{
+  position:relative;
+  background-color:  #3f72af;
+
+  padding:5%;
+}
+p.designation{
+  margin:10%;
+  font-size:1.5rem;
+  margin: 0 auto;
+  text-align: left;
+
+}
+
+
+.query{
+  padding:5px 30px;
+
+}
+.answer{
+  padding:5px 30px;
+}
+
+
+#keyProjects{
+  background-color:#3f72af;
+}
+
+.card{
+  position:relative;
+  margin: 0 auto;
+  color:#112d4e;
+}
+.card p{
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+
+.cardheader-h2{
+  color:white;
+}
+
+.carousel-inner{
+  padding:7% 15%;
+}
+
+.carousel-control-next-icon {
+  background-color: #3f72af;
+}
+
+.carousel-control-prev-icon{
+  background-color: #3f72af;
+}
+
+
+#profile{
+  display:inline-block;
+}
+.profile-image{
+  width:300px;
+  height:300px;
+  border-radius: 10%;
+  margin: 10%;
+  padding:2%;
+}
+.skill-row{
+  border-radius:100%
+}
+.skill-image{
+  width:100px;
+  height:100px;
+}
+.skills-table{
+  display: inline-block;
+  }
+.card-background{
+  color:white;
+  background-color: #3f72af;
+}
+
+#footer{
+  text-align: center;
+  background-color: #3f72af;
+  padding:2%;
+}
+.social-icon{
+  margin:20px 20px;
+  opacity: 0.2;
+}
+/* Defining the Class selector*/
